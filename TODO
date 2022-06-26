@@ -1,0 +1,3 @@
+* use CMake
+* use NNG
+* build-support include shr-utils
